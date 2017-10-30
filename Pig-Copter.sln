@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig-Copter", "Pig-Copter.csproj", "{91778638-12DC-BC59-4E9B-74B44F07810F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig-Copter.Plugins", "Pig-Copter.Plugins.csproj", "{1CB1CE23-C993-18F7-0A7E-26AAB29A5662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig-Copter.Editor.Plugins", "Pig-Copter.Editor.Plugins.csproj", "{EF5B7556-879C-6450-8D1F-904F52733E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pig-Copter.Editor", "Pig-Copter.Editor.csproj", "{80E3F4C8-E86E-F8F3-8A7A-C17AD9D13E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91778638-12DC-BC59-4E9B-74B44F07810F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91778638-12DC-BC59-4E9B-74B44F07810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91778638-12DC-BC59-4E9B-74B44F07810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91778638-12DC-BC59-4E9B-74B44F07810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB1CE23-C993-18F7-0A7E-26AAB29A5662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB1CE23-C993-18F7-0A7E-26AAB29A5662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB1CE23-C993-18F7-0A7E-26AAB29A5662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB1CE23-C993-18F7-0A7E-26AAB29A5662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5B7556-879C-6450-8D1F-904F52733E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5B7556-879C-6450-8D1F-904F52733E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5B7556-879C-6450-8D1F-904F52733E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5B7556-879C-6450-8D1F-904F52733E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E3F4C8-E86E-F8F3-8A7A-C17AD9D13E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E3F4C8-E86E-F8F3-8A7A-C17AD9D13E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E3F4C8-E86E-F8F3-8A7A-C17AD9D13E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E3F4C8-E86E-F8F3-8A7A-C17AD9D13E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
